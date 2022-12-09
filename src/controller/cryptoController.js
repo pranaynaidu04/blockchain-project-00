@@ -10,7 +10,7 @@ let getCrypto = async function (req, res) {
             method: 'get',
             url: "http://api.coincap.io/v2/assets",
             headers: {
-                Authorization: "Bearer 5f6ea31d-9790-474c-ac7d-14b3e1410705",
+                Authorization: "Bearer d188a278-af09-4879-b466-ef6db6e45c1a",
             }
         }
 
